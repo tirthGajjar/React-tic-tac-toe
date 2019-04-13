@@ -1,0 +1,10 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "editor.fontFamily": "'Sofia Pro Regular','Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.fontLigatures": true,
+    "editor.formatOnType": true,
+    "editor.mouseWheelZoom": true,
+    "terminal.integrated.fontFamily": "monospace",
+    "explorer.confirmDelete": false,
+    "git.autofetch": true,
+}
